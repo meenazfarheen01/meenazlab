@@ -1,0 +1,89 @@
+body{
+    color: rgb(94, 80, 80);
+
+}
+.navbar-brand{
+    color: white !important;
+    font-size: 1.6rem;
+}
+.navbar button{
+    background-color: antiquewhite;
+}
+.nav-link{
+    color: rgb(160, 146, 146);
+}
+.nav-link:hover{
+    color: white;
+}
+.navbar{
+    border-bottom: 3px solid rgb(0, 140, 255);
+    opacity: 0.7;
+}
+header{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.507),rgba(0, 0, 0, 0.452)),url(../img/home.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 110vh;
+    color: white !important;
+}
+#home .home-matter{
+    padding-top: 200px !important;
+}
+.home-matter p{
+    font-size: 1.1rem;
+}
+.home-matter i{
+    color: rgb(0, 140, 255);
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+}
+.card{
+    opacity: 0.8;
+}
+.explore-head{
+    padding: 40px 0px 40px 0px;
+    background-color: rgb(48, 43, 43);
+    color: white !important;
+}
+.explore-head p{
+    font-size: 1.2rem;
+}
+.explore-main i{
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(94, 80, 80);
+    border-radius: 5px;
+}
+#create-head{
+    color: white !important;
+}
+#create-head p{
+    font-size: 1.2rem;
+}
+.create-main{
+    padding: 40px 0px 40px 0px;
+    background-color: rgb(48, 43, 43);
+    color: white !important;
+}
+.create-main i{
+    color: rgb(0, 140, 255);
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 5px;
+}
+#share-head{
+    color: white !important;
+}
+.share-main i{
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(94, 80, 80);
+    border-radius: 5px;
+}
+footer{
+    padding: 40px 0px 40px 0px;
+    background-color: rgb(48, 43, 43);
+    color: white !important;
+}
